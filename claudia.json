@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "samplebot-executor",
+    "name": "samplebot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "dehnmb1u1b",
+    "module": "bot"
+  }
+}
